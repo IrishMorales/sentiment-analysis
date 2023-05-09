@@ -1,1 +1,2 @@
-# sentiment-analysis
+# Poem Sentiment Analysis
+Neural network that generates positive and negative-toned poems then performs sentiment analysis on the generated poems. Trained on the Poem Sentiment dataset available at https://github.com/google-research-datasets/poem-sentiment
